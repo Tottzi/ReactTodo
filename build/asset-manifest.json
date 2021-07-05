@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.444536ad.chunk.css",
-    "main.js": "/static/js/main.de029838.chunk.js",
-    "main.js.map": "/static/js/main.de029838.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ac655163.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ac655163.js.map",
-    "static/js/2.a86ab441.chunk.js": "/static/js/2.a86ab441.chunk.js",
-    "static/js/2.a86ab441.chunk.js.map": "/static/js/2.a86ab441.chunk.js.map",
-    "static/js/3.49bcd8ee.chunk.js": "/static/js/3.49bcd8ee.chunk.js",
-    "static/js/3.49bcd8ee.chunk.js.map": "/static/js/3.49bcd8ee.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.444536ad.chunk.css.map": "/static/css/main.444536ad.chunk.css.map",
-    "static/js/2.a86ab441.chunk.js.LICENSE.txt": "/static/js/2.a86ab441.chunk.js.LICENSE.txt"
+    "main.css": "/reactrodo/static/css/main.444536ad.chunk.css",
+    "main.js": "/reactrodo/static/js/main.de029838.chunk.js",
+    "main.js.map": "/reactrodo/static/js/main.de029838.chunk.js.map",
+    "runtime-main.js": "/reactrodo/static/js/runtime-main.b82cc586.js",
+    "runtime-main.js.map": "/reactrodo/static/js/runtime-main.b82cc586.js.map",
+    "static/js/2.a86ab441.chunk.js": "/reactrodo/static/js/2.a86ab441.chunk.js",
+    "static/js/2.a86ab441.chunk.js.map": "/reactrodo/static/js/2.a86ab441.chunk.js.map",
+    "static/js/3.49bcd8ee.chunk.js": "/reactrodo/static/js/3.49bcd8ee.chunk.js",
+    "static/js/3.49bcd8ee.chunk.js.map": "/reactrodo/static/js/3.49bcd8ee.chunk.js.map",
+    "index.html": "/reactrodo/index.html",
+    "static/css/main.444536ad.chunk.css.map": "/reactrodo/static/css/main.444536ad.chunk.css.map",
+    "static/js/2.a86ab441.chunk.js.LICENSE.txt": "/reactrodo/static/js/2.a86ab441.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac655163.js",
+    "static/js/runtime-main.b82cc586.js",
     "static/js/2.a86ab441.chunk.js",
     "static/css/main.444536ad.chunk.css",
     "static/js/main.de029838.chunk.js"
